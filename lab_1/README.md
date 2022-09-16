@@ -5,4 +5,4 @@
 Просто переписал обычный кликер на кликер stateless
 
 ### Демо
-![demo](../demo/lab_1.gif)
+<img src="../demo/lab_1.gif" width="250"/>
