@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "760760627618",
+    "project_id": "mobile-cource-lab-7",
+    "storage_bucket": "mobile-cource-lab-7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760760627618:android:5e56da299c1cf4d86482fb",
+        "android_client_info": {
+          "package_name": "com.example.lab_7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760760627618-um115hc575cfm73a70ajip5lsd58v7b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdJzHoy9G14u1yX6W7fVFXkuI0WbjH_5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760760627618-um115hc575cfm73a70ajip5lsd58v7b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
